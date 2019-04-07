@@ -1,6 +1,8 @@
 # RESTORAN CRM MEAN-stack
 
-One Paragraph of project description goes here
+Система управления рестораном
+
+Restaurant Management System
 
 ## Getting Started
 
