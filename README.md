@@ -24,3 +24,4 @@ module.exports = {
 3. Запустить срвер из корневой папки командой `npm run dev`
 4. Запустить ангуляр из папки `client` командой `npm run start`
 5. перейти на http://localhost:4200
+demo: https://crmsystemds.herokuapp.com
